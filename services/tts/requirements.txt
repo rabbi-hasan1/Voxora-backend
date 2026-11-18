@@ -1,0 +1,11 @@
+
+chatterbox-tts==0.1.2
+torch==2.6.0
+torchaudio==2.6.0
+transformers
+huggingface_hub
+safetensors
+soundfile
+numpy
+fastapi
+python-multipart
